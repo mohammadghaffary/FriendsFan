@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+
+	
+	
+	
+		form div
+		{
+			margin:25px;
+		}
+		
+	form input:focus,form textarea:focus
+		{
+		background:#FFFFFF;
+		}
+     form input,form textarea
+		{
+			border: 2px solid #000000;
+			border-radius: 5px;
+			padding: 6px;
+			background:#D6D6D6;
+			margin-bottom: 0px;
+			text-align: center;
+		}
+
+form label {
+	display: block;
+	padding: 20px;
+	margin-left: 47%;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color:#000000;
+}
+form input {
+	
+	margin-left: 45%;
+}
+div#t  {
+			padding: 8px;
+			margin-left: 8%
+}
+label#f {
+	padding-top: 0px;
+	margin-left: 110px;
+}
+	label#d {
+	padding-top: 0px;
+	margin-left: 110px;
+}
+
+div#b {
+	margin-left: 108px;
+}
